@@ -1,0 +1,14 @@
+#progress {
+  border: 2px solid black;
+  margin: 5px auto;
+  width: 500px;
+  height: 40px;
+  box-sizing: border-box;
+  display: flex;
+}
+
+#bar {
+  display: block;
+  background-color: rgb(128, 0, 75);
+  width: 0;
+}
