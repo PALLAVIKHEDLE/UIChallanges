@@ -1,4 +1,5 @@
 # UIChallanges
 
-1. Star Rating using HTML CSS and JavaScript(`./starRating`)
-2. ProgressBar(`./progressBar`)
+1. Star Rating using HTML CSS and JavaScript(['Star Rating'](./starRating/))
+2. ProgressBar([Progress Bar](./progressBar/))
+3. Poll Design([Poll Design](./pollDesign/))
