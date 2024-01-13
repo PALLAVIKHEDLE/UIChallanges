@@ -1,4 +1,4 @@
-# UIChallanges
+# UIChallenges
 
 1. Star Rating using HTML CSS and JavaScript(['Star Rating'](./starRating/))
 2. ProgressBar([Progress Bar](./progressBar/))
