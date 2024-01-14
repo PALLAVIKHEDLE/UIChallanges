@@ -1,0 +1,47 @@
+/* Variables */
+.wrapper {
+  margin: 30px auto;
+  color: #fff;
+  width: 100%; /* Set width to 100% for full-width centering */
+  height: 100vh; /* Set height to 100% of the viewport height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background: #ffa600;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  height: 100%;
+  margin: 0;
+}
+
+#seconds, #tens {
+  font-size: 2em;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+  color: black;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 1em;
+  background: #ffa600;
+  color: white;
+  cursor: pointer; 
+  border-radius: 5px;
+  border-color: black;
+}
+
+
+button:hover {
+  background: white;
+  color: #ffa600;
+}
