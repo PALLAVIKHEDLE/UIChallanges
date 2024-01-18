@@ -7,3 +7,4 @@
 5. layout([layout](./layout/))
 6. convertTimeFormat([Time Format](./convertTime/))
 7. countDownTimer(([countDown](./countDownTimer/)))
+8. calculator([calculator](./calculator/))
