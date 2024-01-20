@@ -8,3 +8,4 @@
 6. convertTimeFormat([Time Format](./convertTime/))
 7. countDownTimer(([countDown](./countDownTimer/)))
 8. calculator([calculator](./calculator/))
+9. weatherApp([weatherApp](./weatherApp/))
