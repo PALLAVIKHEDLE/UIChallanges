@@ -11,3 +11,4 @@
 9. weatherApp([weatherApp](./weatherApp/))
 10. toDoList([ToDO](./toDoList/))
 11. ImageGallery([ImageGallery](./imageGallary/))
+12. Promise.all([promise.all](./promise/))
