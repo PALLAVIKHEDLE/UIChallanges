@@ -12,3 +12,4 @@
 10. toDoList([ToDO](./toDoList/))
 11. ImageGallery([ImageGallery](./imageGallary/))
 12. Promise.all([promise.all](./promise/))
+13. Analog Clock ([analog Clock](./analogClock/))
