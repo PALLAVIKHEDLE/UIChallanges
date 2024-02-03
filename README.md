@@ -1,6 +1,6 @@
 # UIChallenges
 
-1. Star Rating(['Star Rating'](./starRating/))
+1. Star Rating([Star Rating](./starRating/))
 2. ProgressBar([Progress Bar](./progressBar/))
 3. Poll Design([Poll Design](./pollDesign/))
 4. StopWatch([Stop Watch](./stopWatch/))
@@ -13,3 +13,4 @@
 11. ImageGallery([ImageGallery](./imageGallary/))
 12. Promise.all([promise.all](./promise/))
 13. Analog Clock ([analog Clock](./analogClock/))
+14. Triangle Animation ([Triangle animation](./triangle/))
