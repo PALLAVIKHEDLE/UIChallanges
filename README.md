@@ -15,3 +15,4 @@
 13. Analog Clock ([analog Clock](./analogClock/))
 14. Triangle Animation ([Triangle animation](./triangle/))
 15. circle Animation ([circle Animation](./glassAnimation/))
+16. Merge Cart ([mergeCart](./mergeCart/index.js))
