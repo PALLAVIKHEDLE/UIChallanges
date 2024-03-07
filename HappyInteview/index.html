@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <title>Js Fundamental</title>    
+    </head>
+    <body>
+        <script src="./index.js"></script>
+        <div>
+            <ul>
+                <li>
+                   <h3>what is JS? role of js engine</h3> 
+                    <p>
+                        JS is a programming language that is used for converting static pages to interactive and dynamic web pages.
+                    </p>
+                    <p>
+                        JS engine is a program present in the web browser that executes js code.
+                    </p>
+                </li>
+                <li>
+                    <h3>what is Scope</h3> 
+                     <p>Scope determines where variables are defined and where they can be accessed.</p>
+                     <p>Types of scope</p>
+                     <ul>
+                         <li>Block Scope</li>
+                         <li>Global Scope</li>
+                         <li>Function Scope</li>
+                     </ul>
+                 </li>
+                 <li>
+                    <h3>What is hoisting</h3>
+                    <p>Hoisting is a JS behaviour where Functions and variable declaration are <b>
+                        moved to the top of 
+                    </b> their respective scope during the compilation phase. </p>
+                    <p>JS engine will rearrange the code.</p>
+                    <p>Types of Hoisting</p>
+                    <ul>
+                        <li>Variable Hoisting</li>
+                        <li>Function Hoisting</li>
+                    </ul>
+                    <p>Hoisting will work only with declaration not with initialization.</p>
+                 </li>
+                 <li>
+                    <h3>What is JSON?</h3>
+                    <p> JSON(java script object Notation) is a lightweight data interchange format. consist of key value pair.</p>
+                 </li>
+                 <li>
+                    <h3>Operator based on number of operands</h3>
+                    <ul>
+                        <li>Unary Operator: <p>Single operand (b+=a)</p></li>
+                        <li>Binary Operator <p>Two operands (b+a)</p></li>
+                        <li>Ternary Operator <p>Three operands (condition?'Yes':'No')</p></li>
+                    </ul>
+                 </li>
+                 <li>
+                    <h3>Short circuit evaluation in js</h3>
+                    <p>Short circuit evaluation stops the execution as soon as the result can be determined without evaluating the remaining sub-expression.</p>
+                    <p>  let result =true || someFunction(), // output(true)<p>
+                    
+                 </li>
+                 <li>
+                    <h3>Spread operator</h3>
+                    <p>The Spread operator(...) is used to <b>expand or spread elements</b> from an iterable(such as an array, string or object) into individual elements.</p>
+                    <p>const arr=[1,2,3] </p>
+                    <p>console.log(...arr)// output: 1,2,3 </p>
+                    <p>Purpose of spread operator </p>
+                    <ul>
+                        <li>Copying an array </li>
+                        <li>Merging arrays </li>
+                        <li>Passing multiple arguments to a Function </li>
+                    </ul>                    
+                 </li>
+                 <li>
+                    <h3>Rest operator</h3>
+                    <p>The Rest operator(...) is used in function parameters to collect all remaining arguments into an array. </p>
+                    <p>
+                        display(1,2,3,4,5)<br>
+                            function display(first, second, ...restOperator){<br>
+                                console.log(first)<br>
+                                console.log(second)<br>
+                                console.log(restOperator)<br>
+                            }<br>
+                    </p>
+                    
+                 </li>
+            </ul>
+        </div>
+    </body>
+</html>
+
